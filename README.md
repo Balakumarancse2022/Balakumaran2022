@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:7B2FF7,100:FF6B6B&height=220&section=header&text=BALAKUMARAN%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20Blockchain%20Enthusiast&descSize=16&descAlignY=55&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:7B2FF7,100:FF6B6B&height=200&section=header&text=BALAKUMARAN%20M&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Development%20%7C%20Full%20Stack%20Development%20%7C%20Blockchain%20Development&descSize=13&descAlignY=58&descColor=ffffff" width="100%"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%F0%9F%91%8B+Hey+there!+I'm+Balakumaran+M;%F0%9F%92%BB+MERN+Stack+%26+Full+Stack+Development;%F0%9F%94%97+Blockchain+%26+Smart+Contract+Developer;%F0%9F%8F%86+Hackathon+Winner+%7C+Google+Student+Ambassador;%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%F0%9F%91%8B+Hey+there!+I'm+Balakumaran+M;%F0%9F%92%BB+MERN+Stack+%26+Full+Stack+Development;%F0%9F%94%97+Blockchain+%26+Smart+Contract+Development;%F0%9F%8F%86+Hackathon+Winner+%7C+Google+Student+Ambassador;%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 ```yaml
 🎓 Education: B.E. CSE @ A.V.C College of Engineering (2026)
 📍 Location: Sirkazhi, Tamil Nadu, India
-💼 Role: Aspiring MERN Stack & Full Stack Developer
+💼 Role: Aspiring MERN Stack & Full Stack Development
 🔭 Working on: Full Stack MERN Applications & Blockchain DApps
 🌱 Learning: Advanced React, Next.js, Cloud Computing, DevOps
 🏆 Achievement: 1st Place - National Level Technical Symposium
@@ -124,9 +124,9 @@
 ## 💼 Experience
 
 ```
-🔹 MERN Stack / Java Full Stack Developer Intern  │  i5 Technology         │  1 Month
-🔹 Data Analytics Intern                          │  Cognifyz Technologies │  1 Month (Remote)
-🔹 Blockchain Development Intern                  │  Technohacks           │  1 Month
+🔹 MERN Stack / Java Full Stack Development Intern  │  i5 Technology         │  1 Month
+🔹 Data Analytics Intern                            │  Cognifyz Technologies │  1 Month (Remote)
+🔹 Blockchain Development Intern                    │  Technohacks           │  1 Month
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -158,11 +158,11 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:7B2FF7,100:FF6B6B&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:7B2FF7,100:FF6B6B&height=100&section=footer&animation=twinkling" width="100%"/>
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=7B2FF7&center=true&vCenter=true&random=false&width=450&lines=%E2%AD%90+Star+my+repos+if+you+find+them+useful!;%F0%9F%A4%9D+Let's+connect+and+build+together!;%F0%9F%92%9C+Thanks+for+visiting+my+profile!" alt="Footer Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=15&duration=4000&pause=1000&color=7B2FF7&center=true&vCenter=true&random=false&width=450&lines=%E2%AD%90+Star+my+repos+if+you+find+them+useful!;%F0%9F%A4%9D+Let's+connect+and+build+together!;%F0%9F%92%9C+Thanks+for+visiting+my+profile!" alt="Footer Typing"/>
 </h3>
 
 <p align="center">
