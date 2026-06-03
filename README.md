@@ -65,27 +65,32 @@
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balakumarancse2022&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Balakumarancse2022&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5D4&ring=7B2FF7&fire=FF6B6B&currStreakNum=00F5D4&sideNums=00F5D4&currStreakLabel=00F5D4&sideLabels=7B2FF7&dates=C9D1D9" alt="GitHub Streak"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Balakumarancse2022&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="Trophies"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Balakumarancse2022/cognifyz-DA-intern">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Balakumarancse2022&repo=cognifyz-DA-intern&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7B2FF7&text_color=C9D1D9" alt="Cognifyz DA Intern"/>
-  </a>
-</p>
+<div align="center">
+  <table border="0" style="border: none; background: transparent; width: 100%; border-collapse: collapse; max-width: 600px;">
+    <tr>
+      <td style="border: 1px solid #30363d; border-radius: 8px; padding: 20px; background: #0d1117;">
+        <div style="display: flex; justify-content: space-between; align-items: center;">
+          <h3 style="margin: 0; color: #00F5D4; font-family: 'Poppins', sans-serif;">📂 cognifyz-DA-intern</h3>
+          <img src="https://img.shields.io/badge/Public-Repo-7B2FF7?style=flat-square" alt="Status"/>
+        </div>
+        <p style="color: #c9d1d9; font-size: 14px; font-family: 'Poppins', sans-serif; text-align: left; margin: 10px 0 15px 0;">
+          Complete data analysis solutions and high-resolution visualizations for all tasks in the Cognifyz Data Analysis Internship.
+        </p>
+        <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 15px;">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+          <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black" alt="Matplotlib"/>
+          <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square" alt="Seaborn"/>
+        </div>
+        <a href="https://github.com/Balakumarancse2022/cognifyz-DA-intern" target="_blank" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/View_Repository-00F5D4?style=for-the-badge&logo=github&logoColor=black" alt="View Repo"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <details>
 <summary><b>📂 Click to see all projects</b></summary>
@@ -127,14 +132,6 @@
 🔹 Data Analytics Intern                            │  Cognifyz Technologies │  1 Month (Remote)
 🔹 Blockchain Development Intern                    │  Technohacks           │  1 Month
 ```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Balakumarancse2022&bg_color=0D1117&color=00F5D4&line=7B2FF7&point=FF6B6B&area=true&hide_border=true&area_color=7B2FF7" width="95%"/>
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
