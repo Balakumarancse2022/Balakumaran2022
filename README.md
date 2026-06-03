@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%F0%9F%91%8B+Hey+there!+I'm+Balakumaran+M;%F0%9F%92%BB+MERN+Stack+%26+Full+Stack+Development;%F0%9F%94%97+Blockchain+%26+Smart+Contract+Development;%F0%9F%8F%86+Hackathon+Winner+%7C+Google+Student+Ambassador;%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=650&height=50&lines=%F0%9F%91%8B+Hey+there!+I'm+Balakumaran+M;%F0%9F%92%BB+MERN+Stack+%26+Full+Stack+Development;%F0%9F%94%97+Blockchain+%26+Smart+Contract+Development;%F0%9F%8F%86+Hackathon+Winner+%7C+Google+Student+Ambassador;%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## About Me
 
 <img align="right" alt="Coding" width="180" src="https://github.com/user-attachments/assets/29cf9353-a43a-4750-bcf1-94fb6a17c9bb" />
 
