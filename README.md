@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Balakumarancse2022&label=PROFILE+VIEWS&color=00f5d4&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Balakumarancse2022?label=Followers&style=for-the-badge&color=7B2FF7&labelColor=0D1117" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Balakumarancse2022?label=Stars&style=for-the-badge&color=FF6B6B&labelColor=0D1117" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Balakumaran2022&label=PROFILE+VIEWS&color=00f5d4&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Balakumaran2022?label=Followers&style=for-the-badge&color=7B2FF7&labelColor=0D1117" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Balakumaran2022?label=Stars&style=for-the-badge&color=FF6B6B&labelColor=0D1117" alt="Stars"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -61,8 +61,20 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Analytics Dashboard
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Balakumarancse2022&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7B2FF7&text_color=C9D1D9&ring_color=00F5D4&count_private=true" alt="GitHub Stats"/>
-  <img width="41%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Balakumarancse2022&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Balakumaran2022&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7B2FF7&text_color=C9D1D9&ring_color=00F5D4&count_private=true" alt="GitHub Stats"/>
+  <img width="41%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Balakumaran2022&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Balakumaran2022/Balakumaran2022/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Balakumaran2022/Balakumaran2022/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Balakumaran2022/Balakumaran2022/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ## 🚀 Featured Projects
@@ -86,7 +98,7 @@
           <img src="https://img.shields.io/badge/Tesseract_OCR-555555?style=flat-square" alt="OCR"/>
         </div>
         <div style="display: flex; gap: 10px;">
-          <a href="https://github.com/Balakumarancse2022/Securelandx2026" target="_blank" style="text-decoration: none;">
+          <a href="https://github.com/Balakumaran2022/Securelandx2026" target="_blank" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
           </a>
           <a href="https://securelandx2026-1.onrender.com/" target="_blank" style="text-decoration: none;">
@@ -111,7 +123,7 @@
           <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
         </div>
         <div style="display: flex; gap: 10px;">
-          <a href="https://github.com/Balakumarancse2022/Sychdesk" target="_blank" style="text-decoration: none;">
+          <a href="https://github.com/Balakumaran2022/Sychdesk" target="_blank" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
           </a>
           <a href="https://sychdesk.netlify.app/" target="_blank" style="text-decoration: none;">
@@ -129,12 +141,12 @@
 
 | 🎬 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
 |-----------|-------------|------------|---------|
-| **SecureLandX** | Blockchain land registry with Patta verification and ownership transfers. | `React.js` `Solidity` `Ethereum` `Flask` `Tesseract OCR` | [GitHub](https://github.com/Balakumarancse2022/Securelandx2026) \| [Live](https://securelandx2026-1.onrender.com/) |
-| **SychDesk** | Unified work/study platform centralizing meetings, deadlines, and submissions. | `React.js` `TypeScript` `Tailwind CSS` `Node.js` `MongoDB` | [GitHub](https://github.com/Balakumarancse2022/Sychdesk) \| [Live](https://sychdesk.netlify.app/) |
-| **Hostel Management System** | Warden-level tracking PWA with attendance, notifications, and reports. | `PWA` `WhatsApp API` `Excel Reports` | [GitHub](https://github.com/Balakumarancse2022/avccehostelmanagement) \| [Live](https://avccehostelmanagement.netlify.app) |
-| **Movie Ticket Admin Portal** | Spring Boot portal for managing movies, schedules, and relational databases. | `Spring Boot` `Java` `MySQL` `REST API` | [GitHub](https://github.com/Balakumarancse2022/movieadminportal) \| [Case Study](https://docs.google.com/presentation/d/1m79kZ7Yo-feQwhYm7QCR6Z1o9DEcA4m0/edit) |
+| **SecureLandX** | Blockchain land registry with Patta verification and ownership transfers. | `React.js` `Solidity` `Ethereum` `Flask` `Tesseract OCR` | [GitHub](https://github.com/Balakumaran2022/Securelandx2026) \| [Live](https://securelandx2026-1.onrender.com/) |
+| **SychDesk** | Unified work/study platform centralizing meetings, deadlines, and submissions. | `React.js` `TypeScript` `Tailwind CSS` `Node.js` `MongoDB` | [GitHub](https://github.com/Balakumaran2022/Sychdesk) \| [Live](https://sychdesk.netlify.app/) |
+| **Hostel Management System** | Warden-level tracking PWA with attendance, notifications, and reports. | `PWA` `WhatsApp API` `Excel Reports` | [GitHub](https://github.com/Balakumaran2022/avccehostelmanagement) \| [Live](https://avccehostelmanagement.netlify.app) |
+| **Movie Ticket Admin Portal** | Spring Boot portal for managing movies, schedules, and relational databases. | `Spring Boot` `Java` `MySQL` `REST API` | [GitHub](https://github.com/Balakumaran2022/movieadminportal) \| [Case Study](https://docs.google.com/presentation/d/1m79kZ7Yo-feQwhYm7QCR6Z1o9DEcA4m0/edit) |
 | **AVCCE Alumni Connect** | Mobile app QA testing, UI audits, and Play Store readiness validation. | `Mobile Testing` `QA Engineering` `Bug Reporting` | [Play Store](https://play.google.com/store/apps/details?id=com.karthikrishna.AVCCollegeConnectsUs&pcampaignid=web_share) |
-| **Student CRUD Operation** | Spring Boot application implementing MVC pattern and clean REST operations. | `Spring Boot` `Java` `MySQL` `REST API` | [GitHub](https://github.com/Balakumarancse2022/student_crud) \| [Live](https://student-crud-app-production-9027.up.railway.app/) |
+| **Student CRUD Operation** | Spring Boot application implementing MVC pattern and clean REST operations. | `Spring Boot` `Java` `MySQL` `REST API` | [GitHub](https://github.com/Balakumaran2022/student_crud) \| [Live](https://student-crud-app-production-9027.up.railway.app/) |
 
 </details>
 
@@ -179,7 +191,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Balakumarancse2022" target="_blank">
+  <a href="https://github.com/Balakumaran2022" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
   </a>
 </p>
@@ -195,5 +207,5 @@
 </h3>
 
 <p align="center">
-  <b>Made with ❤️ by <a href="https://github.com/Balakumarancse2022">BALAKUMARAN M</a></b>
+  <b>Made with ❤️ by <a href="https://github.com/Balakumaran2022">BALAKUMARAN M</a></b>
 </p>
