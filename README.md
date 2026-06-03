@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/stars/Balakumarancse2022?label=Stars&style=for-the-badge&color=FF6B6B&labelColor=0D1117" alt="Stars"/>
 </p>
 
-<img src="train.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
@@ -31,7 +31,7 @@
 
 <br clear="both">
 
-<img src="train.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack & Skills
 
@@ -56,7 +56,7 @@
 
 </details>
 
-<img src="train.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Analytics Dashboard
 
@@ -68,25 +68,56 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <table border="0" style="border: none; background: transparent; width: 100%; border-collapse: collapse; max-width: 600px;">
+  <table border="0" style="border: none; background: transparent; width: 100%; border-collapse: collapse; max-width: 800px;">
     <tr>
-      <td style="border: 1px solid #30363d; border-radius: 8px; padding: 20px; background: #0d1117;">
+      <!-- SecureLandX Card -->
+      <td width="48%" style="border: 1px solid #30363d; border-radius: 8px; padding: 20px; background: #0d1117; vertical-align: top;">
         <div style="display: flex; justify-content: space-between; align-items: center;">
-          <h3 style="margin: 0; color: #00F5D4; font-family: 'Poppins', sans-serif;">📂 cognifyz-DA-intern</h3>
-          <img src="https://img.shields.io/badge/Public-Repo-7B2FF7?style=flat-square" alt="Status"/>
+          <h3 style="margin: 0; color: #00F5D4; font-family: 'Poppins', sans-serif;">🔒 SecureLandX</h3>
+          <img src="https://img.shields.io/badge/Blockchain-Ethereum-7B2FF7?style=flat-square" alt="Category"/>
         </div>
-        <p style="color: #c9d1d9; font-size: 14px; font-family: 'Poppins', sans-serif; text-align: left; margin: 10px 0 15px 0;">
-          Complete data analysis solutions and high-resolution visualizations for all tasks in the Cognifyz Data Analysis Internship.
+        <p style="color: #c9d1d9; font-size: 14px; font-family: 'Poppins', sans-serif; text-align: left; margin: 10px 0 15px 0; height: 80px; overflow: hidden;">
+          A blockchain-based land registry system leveraging Ethereum smart contracts and Tesseract OCR for automated Patta verification and fraud-free ownership transfers.
         </p>
-        <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 15px;">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-          <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black" alt="Matplotlib"/>
-          <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square" alt="Seaborn"/>
+        <div style="display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 15px; height: 60px; overflow: hidden;">
+          <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+          <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity"/>
+          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+          <img src="https://img.shields.io/badge/Tesseract_OCR-555555?style=flat-square" alt="OCR"/>
         </div>
-        <a href="https://github.com/Balakumarancse2022/cognifyz-DA-intern" target="_blank" style="text-decoration: none;">
-          <img src="https://img.shields.io/badge/View_Repository-00F5D4?style=for-the-badge&logo=github&logoColor=black" alt="View Repo"/>
-        </a>
+        <div style="display: flex; gap: 10px;">
+          <a href="https://github.com/Balakumarancse2022/Securelandx2026" target="_blank" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+          </a>
+          <a href="https://securelandx2026-1.onrender.com/" target="_blank" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/Live_Demo-00F5D4?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Demo"/>
+          </a>
+        </div>
+      </td>
+      <td width="4%"></td>
+      <!-- SychDesk Card -->
+      <td width="48%" style="border: 1px solid #30363d; border-radius: 8px; padding: 20px; background: #0d1117; vertical-align: top;">
+        <div style="display: flex; justify-content: space-between; align-items: center;">
+          <h3 style="margin: 0; color: #00F5D4; font-family: 'Poppins', sans-serif;">💻 SychDesk</h3>
+          <img src="https://img.shields.io/badge/MERN_Stack-Full_Stack-FF6B6B?style=flat-square" alt="Category"/>
+        </div>
+        <p style="color: #c9d1d9; font-size: 14px; font-family: 'Poppins', sans-serif; text-align: left; margin: 10px 0 15px 0; height: 80px; overflow: hidden;">
+          A unified work and study platform centralizing meeting scheduling, deadline tracking, submissions, and file sharing in a real-time responsive dashboard.
+        </p>
+        <div style="display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 15px; height: 60px; overflow: hidden;">
+          <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node"/>
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+          <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+        </div>
+        <div style="display: flex; gap: 10px;">
+          <a href="https://github.com/Balakumarancse2022/Sychdesk" target="_blank" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+          </a>
+          <a href="https://sychdesk.netlify.app/" target="_blank" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/Live_Demo-00F5D4?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Demo"/>
+          </a>
+        </div>
       </td>
     </tr>
   </table>
@@ -96,16 +127,18 @@
 <summary><b>📂 Click to see all projects</b></summary>
 <br>
 
-| 🎬 Project | 📝 Description | 🛠️ Tech Stack |
-|-----------|-------------|------------|
-| **Movie Ticket Admin Portal** | Java Spring Boot admin system for managing movies, schedules & seat availability | `Java` `Spring Boot` `MySQL` |
-| **AVCCE Alumni Connect** | Centralized alumni interaction platform with QA testing | `React` `Node.js` `MongoDB` |
-| **Hostel Management System** | Track hostel check-in/check-out, maintain student records | `Java` `MySQL` `Spring Boot` |
-| **Cognifyz DA Internship** | Complete data analysis solutions with visualizations (Levels 1-3) | `Python` `Pandas` `Matplotlib` `Seaborn` |
+| 🎬 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
+|-----------|-------------|------------|---------|
+| **SecureLandX** | Blockchain land registry with Patta verification and ownership transfers. | `React.js` `Solidity` `Ethereum` `Flask` `Tesseract OCR` | [GitHub](https://github.com/Balakumarancse2022/Securelandx2026) \| [Live](https://securelandx2026-1.onrender.com/) |
+| **SychDesk** | Unified work/study platform centralizing meetings, deadlines, and submissions. | `React.js` `TypeScript` `Tailwind CSS` `Node.js` `MongoDB` | [GitHub](https://github.com/Balakumarancse2022/Sychdesk) \| [Live](https://sychdesk.netlify.app/) |
+| **Hostel Management System** | Warden-level tracking PWA with attendance, notifications, and reports. | `PWA` `WhatsApp API` `Excel Reports` | [GitHub](https://github.com/Balakumarancse2022/avccehostelmanagement) \| [Live](https://avccehostelmanagement.netlify.app) |
+| **Movie Ticket Admin Portal** | Spring Boot portal for managing movies, schedules, and relational databases. | `Spring Boot` `Java` `MySQL` `REST API` | [GitHub](https://github.com/Balakumarancse2022/movieadminportal) \| [Case Study](https://docs.google.com/presentation/d/1m79kZ7Yo-feQwhYm7QCR6Z1o9DEcA4m0/edit) |
+| **AVCCE Alumni Connect** | Mobile app QA testing, UI audits, and Play Store readiness validation. | `Mobile Testing` `QA Engineering` `Bug Reporting` | [Play Store](https://play.google.com/store/apps/details?id=com.karthikrishna.AVCCollegeConnectsUs&pcampaignid=web_share) |
+| **Student CRUD Operation** | Spring Boot application implementing MVC pattern and clean REST operations. | `Spring Boot` `Java` `MySQL` `REST API` | [GitHub](https://github.com/Balakumarancse2022/student_crud) \| [Live](https://student-crud-app-production-9027.up.railway.app/) |
 
 </details>
 
-<img src="train.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 🎓 Certifications & Achievements
 
@@ -123,7 +156,7 @@
   <img src="https://img.shields.io/badge/📜_Placement_Prep-IIP-7B2FF7?style=flat-square&labelColor=0D1117"/>
 </p>
 
-<img src="train.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 💼 Experience
 
@@ -133,7 +166,7 @@
 🔹 Blockchain Development Intern                    │  Technohacks           │  1 Month
 ```
 
-<img src="train.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 🔗 Connect With Me
 
