@@ -27,14 +27,14 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHdsY2tlYzN0cXRldGp1cm1tcG5tdDZ1Y29wOHJ0eHJibmY4YzJvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="250" />
+  <img src="https://github.com/user-attachments/assets/f3563df6-be53-4aba-ba97-0066c985e09e" width="150" alt="TypingMaster" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<img align="right" alt="Coding" width="280" src="https://github.com/user-attachments/assets/29cf9353-a43a-4750-bcf1-94fb6a17c9bb" />
+<img align="right" alt="Coding" width="180" src="https://github.com/user-attachments/assets/29cf9353-a43a-4750-bcf1-94fb6a17c9bb" />
 
 ```yaml
 🎓 Education: B.E. CSE @ A.V.C College of Engineering (2026)
@@ -199,7 +199,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/eba80995-c43b-4282-9058-cda308b42e67" width="220" alt="MultiTaskingGuy" />
+  <img src="https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8" width="150" alt="MarioCoder" />
 </p>
 
 ## 🔗 Connect With Me
