@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/stars/Balakumarancse2022?label=Stars&style=for-the-badge&color=FF6B6B&labelColor=0D1117" alt="Stars"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="train.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
@@ -31,7 +31,7 @@
 
 <br clear="both">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="train.gif" width="100%">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack & Skills
 
@@ -56,7 +56,7 @@
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="train.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Analytics Dashboard
 
@@ -105,7 +105,7 @@
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="train.gif" width="100%">
 
 ## 🎓 Certifications & Achievements
 
@@ -123,7 +123,7 @@
   <img src="https://img.shields.io/badge/📜_Placement_Prep-IIP-7B2FF7?style=flat-square&labelColor=0D1117"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="train.gif" width="100%">
 
 ## 💼 Experience
 
@@ -133,7 +133,7 @@
 🔹 Blockchain Development Intern                    │  Technohacks           │  1 Month
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="train.gif" width="100%">
 
 ## 🔗 Connect With Me
 
