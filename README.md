@@ -61,8 +61,8 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Analytics Dashboard
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Balakumarancse2022&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7B2FF7&text_color=C9D1D9&ring_color=00F5D4&count_private=true" alt="GitHub Stats"/>
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balakumarancse2022&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Balakumarancse2022&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7B2FF7&text_color=C9D1D9&ring_color=00F5D4&count_private=true" alt="GitHub Stats"/>
+  <img width="41%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Balakumarancse2022&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 </p>
 
 ## 🚀 Featured Projects
