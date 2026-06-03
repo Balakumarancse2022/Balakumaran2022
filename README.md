@@ -22,7 +22,6 @@
 🎓 Education: B.E. CSE @ A.V.C College of Engineering (2026)
 📍 Location: Sirkazhi, Tamil Nadu, India
 💼 Role: MERN Stack & Full Stack Development
-🔭 Working on: MERN Stack Web Applications & Blockchain Smart Contracts
 🌱 Learning: Advanced React, Next.js, Cloud Computing, DevOps
 🏆 Achievement: 1st Place - National Level Technical Symposium
 🎖️ Recognition: Google Student Ambassador
