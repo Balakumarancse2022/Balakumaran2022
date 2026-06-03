@@ -34,7 +34,6 @@
 
 ## About Me
 
-<img align="right" alt="Coding" width="180" src="https://github.com/user-attachments/assets/29cf9353-a43a-4750-bcf1-94fb6a17c9bb" />
 
 ```yaml
 🎓 Education: B.E. CSE @ A.V.C College of Engineering (2026)
@@ -47,7 +46,6 @@
 ⚡ Fun fact: I code, debug, and repeat until perfection! 🔁
 ```
 
-<br clear="both">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
